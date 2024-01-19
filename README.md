@@ -1,2 +1,1 @@
-# CITC-1300-2-
-Remake of verson 1 
+# CITC-1300-2-Kasie-Campbell-Project-Page

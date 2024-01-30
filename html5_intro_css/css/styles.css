@@ -1,3 +1,7 @@
 body {
-    background-color: #faf4e6
+    background-color: #faf4e6;
+}
+
+#container {
+    background-color: lightslategrey;
 }

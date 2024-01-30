@@ -49,10 +49,11 @@ a:hover {
 }
 
 footer {
+
     padding: 40px 0;
     text-align: center;
 }
 
-a href="Introduction to Apex Legends">About My Name is Earl{
-    text-align: center;
+h2,h3 {
+    color: #4a4a4a;
 }

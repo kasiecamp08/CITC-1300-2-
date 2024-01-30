@@ -16,3 +16,9 @@ header h1 {
     color: #4a4a4a;
     text-shadow: 2px 2px 5px #494a49;
 }
+
+main img {
+    display: block;
+    width: 50%;
+    margin: 20px auto;
+}

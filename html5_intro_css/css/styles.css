@@ -45,6 +45,10 @@ a{
 
 a:hover {
     color:black;
-    text-decoration: black;
-    
+    text-decoration: black;  
+}
+
+footer {
+    padding: 40px 0;
+    text-align: center;
 }

@@ -21,6 +21,10 @@ nav {
     text-align: center;
 }
 
+nav a {
+    color: #4a4a4a;
+}
+
 main img {
     display: block;
     width: 40%;

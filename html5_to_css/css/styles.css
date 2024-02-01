@@ -8,5 +8,9 @@ body {
     width: 75%;
     margin: 0 auto;
     border: 4px solid #a83838;
+}
 
+header h1 {
+    text-align: center;
+    font-size: 100px;
 }

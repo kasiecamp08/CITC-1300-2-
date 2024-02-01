@@ -2,8 +2,5 @@
 
 <ul>
     <li><a href="intro_to_html/index.html" target="_blank">intro to html</a></li>
-<<<<<<< HEAD
+    <li><a href="HTML5_to_css/index.html" target="_blank"> HTML Intro To CSS</a></li>
 </ul>
-=======
-</ul>
->>>>>>> 062fd6351a3189897cb5c89d713c0e3dcaaa037e

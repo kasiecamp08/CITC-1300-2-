@@ -21,6 +21,13 @@ nav {
     text-align: center;
 }
 
+nav a {
+    color: #913030;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
 main img {
     display: block;
     width: 60%;

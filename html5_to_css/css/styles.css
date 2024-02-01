@@ -38,3 +38,11 @@ main img {
     width: 60%;
     margin: 20px auto;
 }
+
+a {
+    color: #913030;
+}
+
+a:hover {
+    color: #e04a4a;
+}

@@ -47,3 +47,8 @@ a:hover {
     color: #e04a4a;
     text-decoration: none;
 }
+
+footer {
+    padding: 40px 0;
+    text-align: center;
+}

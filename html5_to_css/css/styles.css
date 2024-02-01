@@ -56,3 +56,7 @@ footer {
 h2 {
     text-align: center;
 }
+
+h2, h3 {
+    color: #913030;
+}

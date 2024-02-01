@@ -17,6 +17,10 @@ header h1 {
     text-shadow: 2px 2px 2px #6b2424;
 }
 
+nav {
+    text-align: center;
+}
+
 main img {
     display: block;
     width: 60%;

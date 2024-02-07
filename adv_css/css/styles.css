@@ -23,3 +23,9 @@ text-decoration: none;
     width: 75%;
     margin: 20px auto;
 }
+
+/* Desktop Style */
+
+nav {
+    background-color: #913030;
+}

@@ -78,3 +78,7 @@ main img {
     width: 33.33%;
     border-radius: 10px;
 }
+
+.col img {
+    border-radius: 20px;
+}

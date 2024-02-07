@@ -82,3 +82,12 @@ main img {
 .col img {
     border-radius: 20px;
 }
+
+footer {
+    padding: 40px 0;
+    text-align: center;
+}
+
+hr {
+    width: 75%;
+}

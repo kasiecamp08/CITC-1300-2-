@@ -58,3 +58,7 @@ header h1 {
     color: #e04a4a;
     text-shadow: 2px 2px 2px #913030;
 }
+
+main {
+    padding: 20px;
+}

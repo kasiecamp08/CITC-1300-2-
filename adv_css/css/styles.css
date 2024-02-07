@@ -24,6 +24,11 @@ text-decoration: none;
     margin: 20px auto;
 }
 
+h1, h2, h3 {
+    text-align: center;
+    color: #913030;
+}
+
 /* Desktop Style */
 
 nav {

@@ -3,6 +3,12 @@ Body {
 background-color: #e04a4a;
 }
 
+img {
+display: block;
+margin: 0 auto;
+width: 100%;
+}
+
 #container {
     background-color: #fff6de;
     width: 75%;

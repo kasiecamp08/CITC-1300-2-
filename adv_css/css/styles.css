@@ -27,10 +27,18 @@ text-decoration: none;
 /* Desktop Style */
 
 nav {
-   /* background-color: #913030; */
+    background-color: #913030; 
 }
 
 nav ul {
     list-style-type: none;
     padding: 0;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+color:#e04a4a
 }

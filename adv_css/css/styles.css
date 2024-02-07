@@ -66,3 +66,7 @@ main {
 main img {
     width: 60%;
 }
+
+#lower {
+    display: flex;
+}

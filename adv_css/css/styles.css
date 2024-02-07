@@ -1,0 +1,10 @@
+/* Global Styles */
+Body {
+background-color: #e04a4a;
+}
+
+#container {
+    background-color: #fff6de;
+    width: 75%;
+    margin: 20px auto;
+}

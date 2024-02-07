@@ -9,6 +9,15 @@ margin: 0 auto;
 width: 100%;
 }
 
+a {
+    color: #913030;
+}
+
+a:hover {
+color: #e04a4a;
+text-decoration: none;
+}
+
 #container {
     background-color: #fff6de;
     width: 75%;

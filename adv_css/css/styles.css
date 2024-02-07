@@ -62,3 +62,7 @@ header h1 {
 main {
     padding: 20px;
 }
+
+main img {
+    width: 50%;
+}

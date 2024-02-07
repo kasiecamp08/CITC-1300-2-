@@ -91,3 +91,11 @@ footer {
 hr {
     width: 10%;
 }
+
+.button {
+    display: block;
+    background-color: #913030;
+    width: 125px;
+    height: 25px;
+    
+}

@@ -110,3 +110,7 @@ hr {
 .button:hover {
     color: #fff6de;
 }
+
+#xpacs{
+    display: flex;
+}

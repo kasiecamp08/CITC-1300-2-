@@ -113,6 +113,8 @@ hr {
 
 #xpacs{
     display: flex;
+    width: 70%;
+    margin: 0 auto;
 }
 
 .cover {

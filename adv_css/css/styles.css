@@ -115,6 +115,10 @@ hr {
     display: flex;
 }
 
+.cover {
+    margin: 10px;
+}
+
 .cover img {
     width: 100%;
 }

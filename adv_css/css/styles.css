@@ -63,9 +63,9 @@ main {
     padding: 20px;
 }
 
-main img {
+/* main img {
     width: 60%;
-}
+} */
 
 #lower {
     display: flex;
@@ -113,4 +113,8 @@ hr {
 
 #xpacs{
     display: flex;
+}
+
+.cover {
+    width: 100%;
 }

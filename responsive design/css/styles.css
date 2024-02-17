@@ -142,4 +142,8 @@ footer {
         width: 100%;
         display: flex;
     }
+
+    .col {
+        width: 33.33%;
+    }
 }

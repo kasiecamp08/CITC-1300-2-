@@ -17,4 +17,21 @@ body {
 /* Mobile Styles */
 nav {
     background-color: #e04a4a;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: block;
+}
+
+nav li a {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    color: #913030;
 }

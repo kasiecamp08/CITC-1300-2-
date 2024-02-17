@@ -131,3 +131,10 @@ footer {
 }
 
 /* Desktop Styles */
+
+@media(min-width: 1024px) {
+    #lower {
+        width: 100%;
+        display: flex;
+    }
+}

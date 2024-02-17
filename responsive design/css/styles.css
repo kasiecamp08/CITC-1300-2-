@@ -41,3 +41,7 @@ nav li a {
     font-weight: bold;
     text-decoration: none;
 }
+
+nav li a:hover {
+    background-color: #e04a4a;
+}

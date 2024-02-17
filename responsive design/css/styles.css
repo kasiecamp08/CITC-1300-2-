@@ -18,6 +18,15 @@ h1, h2, h3 {
     text-align: center;
 }
 
+a {
+    color: #913030;
+}
+
+a:hover {
+    color: #e04a4a;
+    text-decoration: none;
+}
+
 /* Mobile Styles */
 nav {
     background-color: #e04a4a;

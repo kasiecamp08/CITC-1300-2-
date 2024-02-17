@@ -54,3 +54,7 @@ header h1 {
     font-size: 35px;
     color: #913030
 }
+
+main {
+    border: 2px solid #913030;
+}

@@ -99,3 +99,18 @@ footer {
     border-radius: 10px;
     font-weight: bold;
 }
+
+@media(min-width: 786px) {
+    nav {
+        text-align: center;
+    }
+
+    nav li {
+        display: inline-block;
+    }
+
+    nav li a {
+        width: 200px;
+    }
+
+}

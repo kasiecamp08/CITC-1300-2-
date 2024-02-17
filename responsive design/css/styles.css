@@ -34,4 +34,7 @@ nav li a {
     height: 40px;
     line-height: 40px;
     color: #913030;
+    background-color: #fff6de;
+    text-align: center;
+    margin: 5px 0;
 }

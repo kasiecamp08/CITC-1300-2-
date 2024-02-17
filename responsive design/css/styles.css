@@ -45,3 +45,9 @@ nav li a {
 nav li a:hover {
     background-color: #e04a4a;
 }
+
+header h1 {
+    font-size: 35px;
+    text-align: center;
+    color: #e04a4a
+}

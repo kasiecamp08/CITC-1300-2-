@@ -113,4 +113,12 @@ footer {
         width: 200px;
     }
 
+    main img {
+        width: 50%;
+    }
+
+    .col img {
+        width: 75%;
+    }
+
 }

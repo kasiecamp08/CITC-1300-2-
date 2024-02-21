@@ -1,0 +1,149 @@
+/* Global Styles */
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+body {
+    background-color: #e04a4a
+}
+
+#container {
+    background-color: #fff6de;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+a {
+    color: #913030;
+}
+
+a:hover {
+    color: #e04a4a;
+    text-decoration: none;
+}
+
+/* Mobile Styles */
+nav {
+    background-color: #e04a4a;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: block;
+}
+
+nav li a {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    color: #913030;
+    background-color: #fff6de;
+    text-align: center;
+    margin: 5px 0;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #e04a4a;
+}
+
+header h1 {
+    font-size: 35px;
+    color: #913030
+}
+
+main {
+    border: 2px solid #e04a4a;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#lower {
+    border: 2px solid #e04a4a;
+    padding: 10px;
+}
+
+.col {
+    border: 2px solid #913030;
+    margin: 10px;
+    padding: 10px;
+}
+
+footer {
+    padding: 40px 0;
+    text-align: center;
+}
+
+.button {
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    background-color: #e04a4a;
+    width: 125px;
+    height: 40px;
+    line-height: 40px;
+    text-decoration: none;
+    border: 2px solid #913030;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+/* Tablet Styles */
+
+@media(min-width: 786px) {
+    nav {
+        text-align: center;
+    }
+
+    nav li {
+        display: inline-block;
+    }
+
+    nav li a {
+        width: 200px;
+    }
+
+    main img {
+        width: 50%;
+    }
+
+    #lower {
+        width: 75%;
+        margin: 0 auto;
+    }
+
+    .col img {
+        width: 75%;
+    }
+
+}
+
+/* Desktop Styles */
+
+@media(min-width: 1024px) {
+    #container {
+        width: 65%;
+        margin: 20px auto;
+    }
+
+    #lower {
+        width: 100%;
+        display: flex;
+    }
+
+    .col {
+        width: 33.33%;
+    }
+}

@@ -65,18 +65,18 @@ header h1 {
 }
 
 main {
-    border: 2px solid #e04a4a;
+    border: 2px solid #Edcf8e;
     padding: 10px;
     margin: 10px 0;
 }
 
 #lower {
-    border: 2px solid #e04a4a;
+    border: 2px solid #Edcf8e;
     padding: 10px;
 }
 
 .col {
-    border: 2px solid #913030;
+    border: 2px solid #Edcf8e;
     margin: 10px;
     padding: 10px;
 }
@@ -90,7 +90,7 @@ footer {
     display: block;
     margin: 10px auto;
     text-align: center;
-    background-color: #e04a4a;
+    background-color: #e4b7f5;
     width: 125px;
     height: 40px;
     line-height: 40px;
